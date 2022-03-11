@@ -27,6 +27,8 @@ References
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters
 - http://stackoverflow.com/questions/523356/python-django-page-redirect
 
+---
+
 This random color generator was directly copy pasted since it does not directly relate to the assignment and is just a
-massive time saver. (everything else above it was only referenced)
+massive time saver.
 - https://stackoverflow.com/questions/1484506/random-color-generator
